@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(new MyApp());
+void main() => runApp(new IncrementorApp());
 
-class MyApp extends StatelessWidget {
+class IncrementorApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
